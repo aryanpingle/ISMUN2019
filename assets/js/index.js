@@ -21,6 +21,8 @@ function index()
 
 	// z = document.getElementById("banner");
 	// z.style.backgroundImage = "url('https://compassionate-nobel-a2561f.netlify.com/images/Cistern.jpg')";
+
+    document.getElementById("the-team").getElementsByTagName("accent2")[0].innerHTML = "Dev Team";
 }
 
 function replaceAllWords(newWord) {
