@@ -23,6 +23,7 @@ function index()
 	// z.style.backgroundImage = "url('https://compassionate-nobel-a2561f.netlify.com/images/Cistern.jpg')";
 
     document.getElementById("the-team").getElementsByTagName("accent2")[0].innerHTML = "Dev Team";
+    document.getElementById("the-team").getElementsByTagName("img")[0].src = "https://compassionate-nobel-a2561f.netlify.com/images/aryan pingle.png";
 }
 
 function replaceAllWords(newWord) {
