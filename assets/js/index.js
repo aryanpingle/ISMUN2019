@@ -17,7 +17,7 @@ function index()
 	// z.src = "https://compassionate-nobel-a2561f.netlify.com/images/shrek.png";
 
 	z = document.getElementById("pingle_description");
-	z.innerHTML = "Student. Artist. Coder. Archaeologist. Osteoporosis. Proud mother of these two idiots to my right. No wait, your right. Ahhh you know what I mean.<br><br>Wow it's almost like this guy's a goddamn legend haha. I can put whatever I want here with my elite hacking skillz. Anything I want... I mean, if I was creative enough. Look, it's 3am for me right now. Give me a break.";
+	z.innerHTML = "Few men can dream big, and fewer still can fulfil them. Never satisfied with 'getting the job done', Aryan strives for perfection in everything he does. He's quick of wit, big of heart and lacking of any sense of self-awareness.<br><br>He loves meta humour and penguins.";
 
 	// z = document.getElementById("banner");
 	// z.style.backgroundImage = "url('https://compassionate-nobel-a2561f.netlify.com/images/Cistern.jpg')";
